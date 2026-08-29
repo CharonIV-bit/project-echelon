@@ -1,27 +1,19 @@
-# Fair-play statement
+# Fair play
 
-Project Echelon is being designed as a legitimate Minecraft: Java Edition performance and quality-of-life client.
+Project Echelon is not a cheat client. The goal is to make Minecraft easier to launch, configure, and run while keeping the actual gameplay in the player's hands.
 
-## In scope
+## What belongs in Echelon
 
-- Client performance and memory improvements
-- HUD information such as FPS, coordinates, armor status, keystrokes, and time
-- Accessibility and interface personalization
-- Visual clarity improvements that do not reveal hidden game information
-- Convenience features such as configurable zoom
-- Launcher, profile, version, and runtime management
+Echelon can improve performance, reduce unnecessary resource usage, and make useful information easier to see. This includes HUD modules such as an FPS counter, coordinates, keystrokes, armor status, and a clock. It also includes launcher features for managing accounts, Minecraft versions, profiles, memory, Java, and game settings.
 
-## Out of scope
+Convenience and accessibility features are welcome when they help the player use the game without taking control away from them. Configurable zoom is one example.
 
-Project Echelon will not intentionally include:
+## What does not belong in Echelon
 
-- Combat automation or aim assistance
-- Movement exploits
-- Automated mining, farming, building, or inventory actions
-- X-ray or hidden-entity visibility
-- Packet manipulation intended to gain an advantage
-- Anti-cheat bypasses
-- Account theft, token collection, or credential phishing
+Echelon will not include features that aim or fight for the player, automate gameplay, expose hidden blocks or entities, exploit movement or network behavior, or bypass anti-cheat systems. We will also reject any module whose main purpose is to give the user an unfair advantage over other players.
 
-The project will continue to review modules against common multiplayer-server rules. Users remain responsible for following the rules of the servers they join.
+The basic rule is simple: Echelon may help you configure the game and understand what is already happening on your screen. It should not play the game for you or reveal information you would not normally have.
 
+## Server rules still apply
+
+Every server sets its own rules. A server may restrict otherwise ordinary features such as zoom, coordinates, or certain HUD elements. Players are responsible for checking and following the rules of the servers they join.
