@@ -6,21 +6,21 @@
 
 **Minecraft, refined.**
 
-Project Echelon is a work-in-progress Windows launcher and fair-play client for Minecraft: Java Edition. It is focused on performance, clarity, personalization, and quality-of-life features without adding combat cheats, movement exploits, automation, X-ray, or other unfair advantages.
+Project Echelon is a Windows launcher and client for Minecraft: Java Edition. It is being built to bring account management, Minecraft versions, game settings, performance options, and Echelon modules together in one place.
 
 ## Project status
 
-Project Echelon is currently in active development. The launcher interface, local launcher-profile protection, settings, account management, and Microsoft sign-in experience are being built first. Minecraft launching and distribution are not yet available.
+Project Echelon is currently in active development. The launcher interface, local profile protection, settings, account management, and Microsoft sign-in experience are being built first. Minecraft launching is not available yet.
 
 ## Planned experience
 
-- A polished Windows launcher built around a liquid-glass interface
-- Secure Microsoft account sign-in through Microsoft's own authentication interface
-- Verification of legitimate Minecraft: Java Edition ownership
-- Multiple Microsoft/Minecraft account profiles
-- Performance, HUD, and utility modules designed for fair play
-- Game-version, profile, display, runtime, and accessibility settings
-- An in-game configuration interface for Project Echelon modules
+- A modern Windows launcher with Project Echelon's liquid-glass design
+- Microsoft and Minecraft account connection through Microsoft's sign-in interface
+- Support for multiple Minecraft accounts
+- Minecraft version and profile selection
+- Game, display, performance, memory, and Java runtime settings
+- HUD and utility modules such as an FPS counter, coordinates, keystrokes, and zoom
+- An in-game menu for configuring Project Echelon modules
 
 ## Microsoft and Minecraft authentication
 
@@ -36,9 +36,9 @@ The intended sign-in chain is:
 
 Project Echelon uses its own registered Microsoft Entra Application ID and does not impersonate another launcher or reuse another application's credentials.
 
-## Fair-play direction
+## Fair play
 
-Project Echelon is not a hacked client. Its module catalogue is limited to legitimate performance, HUD, accessibility, visual-clarity, and quality-of-life features. Features intended to automate gameplay or provide an unfair competitive advantage are outside the project's direction.
+Project Echelon is not a cheat client. It will not contain modules or other content designed to let users cheat or gain an unfair advantage.
 
 Read the full [fair-play statement](FAIR_PLAY.md).
 
@@ -59,4 +59,3 @@ Questions about Project Echelon can be submitted through this repository's Issue
 ## Independence notice
 
 Project Echelon is an independent project and is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft. Minecraft is a trademark of Microsoft Corporation.
-
