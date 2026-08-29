@@ -8,6 +8,8 @@ Echelon can improve performance, reduce unnecessary resource usage, and make use
 
 Convenience and accessibility features are welcome when they help the player use the game without taking control away from them. Configurable zoom is one example.
 
+The planned Content Hub follows the same rule. It will offer reviewed shaders and resource packs for visual customization, but it will not list packs designed to expose hidden blocks, entities, or other information that players would not normally have.
+
 ## What does not belong in Echelon
 
 Echelon will not include features that aim or fight for the player, automate gameplay, expose hidden blocks or entities, exploit movement or network behavior, or bypass anti-cheat systems. We will also reject any module whose main purpose is to give the user an unfair advantage over other players.
